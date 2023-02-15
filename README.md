@@ -1,1 +1,1 @@
-# jpg_and_png_conversion_using_python
+remember to install "pillow" packege in your system!
